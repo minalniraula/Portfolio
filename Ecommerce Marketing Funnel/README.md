@@ -23,7 +23,7 @@ This project analyses a multi-CSV e-commerce dataset capturing customer signups,
 ## About the Data
 This synthetic multi-CSV dataset emulates an e-commerce site selling products in multiple categories, like beauty, electronics, and fashion. The dataset represents user signups, sessions, events, and purchases across various product categories. 
 
-More about the data [here](data_overview.md).
+More about the data and ERD [here](data_overview.md).
 ## Key Findings
 <img width="661" height="461" alt="power-bi-dashboard" src="https://github.com/user-attachments/assets/88b314b7-8350-47f6-ba0a-4136f79247ee" />
 
