@@ -8,7 +8,6 @@
 - Interactive dashboard available on Tableau Public: [Link](https://public.tableau.com/views/Book2_17666100163770/Product?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Also, find the images here: [PDF](Car-Business-Performance/Car-Company-Performance-Dashboard.pdf)
 
-## Data Interpretation
 ## About the Data
 
 `car_sales_2018_2024.csv`- a car sales dataset where each row represents a single car sale transaction, containing customer demographics, vehicle specifications, pricing and payment details, assigned salesperson, and regional information
