@@ -9,13 +9,13 @@ With a background in marketing, I approach data with both analytical and creativ
 This portfolio showcases my early analytics projects, focusing on problem-solving and continuous skill development as I grow within the field.
 
 ## Table of Contents
-- [Projects](https://github.com/minalniraula/Portfolio/edit/main/README.md#projects)
+- [Projects](https://github.com/minalniraula/Portfolio/blob/main/README.md#projects)
   - SQL
-    - [E-commerce Marketing Funnel Analysis](https://github.com/minalniraula/Portfolio/edit/main/README.md#e-commerce-marketing-funnel-analysis)
+    - [E-commerce Marketing Funnel Analysis](https://github.com/minalniraula/Portfolio/blob/main/README.md#e-commerce-marketing-funnel-analysis)
   - Tableau
-    - [Car Business Performance Dashboard](https://github.com/minalniraula/Portfolio/edit/main/README.md#car-business-performance-dashboard)
-- [Education](https://github.com/minalniraula/Portfolio/edit/main/README.md#education)
-- [Contact](https://github.com/minalniraula/Portfolio/edit/main/README.md#contact)
+    - [Car Business Performance Dashboard](https://github.com/minalniraula/Portfolio/blob/main/README.md#car-business-performance-dashboard)
+- [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
+- [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
 ## Projects
   ### E-commerce Marketing Funnel Analysis
