@@ -20,7 +20,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
 ## Projects
   ### E-commerce Marketing Funnel Analysis
   
-  **Link:** [`E-commerce Marketing Funnel Analysis`](Ecommerce-Marketing-Funnel/README.md)
+  **Link:** [`E-commerce Marketing Funnel Analysis`](https://github.com/minalniraula/Portfolio/blob/main/Ecommerce%20Marketing%20Funnel/README.md)
   
   **Tools:** SQL and Power BI
   
@@ -38,7 +38,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
    
   ### Car Business Performance Dashboard
   
-  **Link:** [`Car Business Performance Dashboard`](Car-Business-Performance/README.md)
+  **Link:** [`Car Business Performance Dashboard`](https://github.com/minalniraula/Portfolio/blob/main/Car%20Business%20Performance/README.md)
   
   **Tools:** Tableau Desktop and Tableau Public
   
