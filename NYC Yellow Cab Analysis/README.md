@@ -1,5 +1,5 @@
 # NYC Yellow Taxi Analysis
-**Description:** This project analyses NYC Yellow Taxi trip data (July 2021) using Microsoft Excel to demonstrate practical business and data analysis skills. The focus is on answering realistic operational and customer-focused questions using pivot tables, KPIs, charts, and slicers. The analysis covers demand patterns across time and location, trip duration and revenue distribution, and customer payment and tipping behaviour. The final output consists of interactive dashboards built with pivot tables, charts, and slicers to support exploratory analysis.
+**Description:** This project analyses NYC Yellow Taxi trip data (July 2021) along with lookup tables for location, vendor info and payemnt method using Microsoft Excel. The focus is on answering realistic operational and customer-focused questions using pivot tables, KPIs, charts, and slicers. The analysis covers demand patterns across time and location, trip duration and revenue distribution, and customer payment and tipping behaviour. The final output consists of interactive dashboards built with pivot tables, charts, and slicers to support exploratory analysis.
 
 **Tools used:** This project uses Microsoft Excel with utilising data skills in Excel such as:
   - Power Query (data cleaning and creating custom columns)
@@ -56,6 +56,11 @@
 `yellow_tripdata_2021-07.csv` : a yellow taxi trip record where each row represents a single trip with information about the dropup and drop off borough locations, passenger information (payment method, counts), payment amounts and time dimensions
 - Fields: 20
 - Rows: 83,692
-Additional 
+Additional lookup tables were used for location, vendor id and payment method.
+
+**Relationships:**
+<img width="1091" height="734" alt="image" src="https://github.com/user-attachments/assets/db6b615f-6434-49d7-bdb7-8a8af7cc80dc" />
+
+
 ## Acknowledgements
 This data is publicly available on NYC Taxi Trip Record Data. You can find the raw data [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
