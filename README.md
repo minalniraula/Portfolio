@@ -14,6 +14,8 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
     - [E-commerce Marketing Funnel Analysis](https://github.com/minalniraula/Portfolio/blob/main/README.md#e-commerce-marketing-funnel-analysis)
   - Tableau
     - [Car Business Performance Dashboard](https://github.com/minalniraula/Portfolio/blob/main/README.md#car-business-performance-dashboard)
+  - Excel
+    -[NYC Yellow Cab Analysis](
 - [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
@@ -51,7 +53,22 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
   - Highlighted yearly product performance trends, enabling quick assessment of growth or decline across regions.
   - Provided a clear segmented view of customer age along with dynamic filters of car models and states.
   - Supported decision-making by creating employee performance dashboard.
-  
+### NYC Yellow Cab Analysis
+
+**Link:** [`NYC Yellow Cab Analysis`](https://github.com/minalniraula/Portfolio/tree/main/NYC%20Yellow%20Cab%20Analysis)
+
+**Tools:** Microsoft Excel (Power Query, Power Pivot, Pivot Tables & Charts)
+
+**Skills Used:** Data cleaning and transformation (Power Query), star schema data modelling, DAX measures, calculated fields, aggregations, duration binning, date and time analysis, slicers, KPI design, and interactive dashboard building.
+
+**Description:** For this project, I built an interactive Excel dashboard to analyse NYC Yellow Taxi trip data (July 2021). The analysis focuses on operational performance, demand patterns, trip duration and revenue distribution, and customer payment and tipping behaviour. Using Power Query for data preparation and Power Pivot for modelling and KPI calculations, the dashboard allows stakeholders to monitor key metrics and explore patterns dynamically using filters for borough and time of day.
+
+**Results:**
+- Enabled quick identification of peak demand days, times, and boroughs using interactive slicers.
+- Highlighted differences between high-volume and high-revenue trip durations.
+- Revealed clear behavioural differences in tipping patterns across payment methods and time periods.
+- Provided an at-a-glance KPI overview of total trips, revenue, average revenue per trip, and tip percentage to support performance monitoring.
+
 ## Education
 - MSc in Business Intelligence and Analytics | University of Huddersfield | Jan 2023- Jun 2024
 - Bachelor in Business Administration (Specialisation in Marketing) | Kathmandu University School of Management (KUSoM) | Sep 2016- Nov 2020
