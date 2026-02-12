@@ -67,7 +67,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
 - Enabled quick identification of peak demand days, times, and boroughs using interactive slicers.
 - Highlighted differences between high-volume and high-revenue trip durations.
 - Revealed clear behavioural differences in tipping patterns across payment methods and time periods.
-- Provided an at-a-glance KPI overview of total trips, revenue, average revenue per trip, and tip percentage to support performance monitoring.
+- Provided a glance KPI overview of total trips, revenue, average revenue per trip, and tip percentage to support performance monitoring.
 
 ## Education
 - MSc in Business Intelligence and Analytics | University of Huddersfield | Jan 2023- Jun 2024
