@@ -15,7 +15,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
   - Tableau
     - [Car Business Performance Dashboard](https://github.com/minalniraula/Portfolio/blob/main/README.md#car-business-performance-dashboard)
   - Excel
-    -[NYC Yellow Cab Analysis](
+    -[NYC Yellow Cab Analysis](https://github.com/minalniraula/Portfolio/blob/main/README.md#nyc-yellow-cab-analysis)
 - [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
