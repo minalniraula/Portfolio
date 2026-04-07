@@ -1,9 +1,9 @@
 # US Domestic Airline Data Analysis
-**Description**
+**Description:**
 
 This project analyzes the operational performance of major US domestic airlines using 2024 flight performance data from the Bureau of Transportation Statistics (BTS). The analysis focuses on understanding delay patterns, identifying key causes of disruptions, and benchmarking Southwest Airlines against industry performance. The goal is to identify operational trends affecting airline reliability and evaluate how Southwest compares to its competitors.
 
-**Tools used**
+**Tools used:**
 
 - Python libraries: Pandas, Matplotlib, NumPy and Seaborn
 - Jupyter Notebook
