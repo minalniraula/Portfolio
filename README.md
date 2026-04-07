@@ -17,7 +17,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
   - Excel
     - [NYC Yellow Cab Analysis](https://github.com/minalniraula/Portfolio/blob/main/README.md#nyc-yellow-cab-analysis)
   - Python
-    - [US Domestic Airlines Analysis]()
+    - [US Domestic Airlines Analysis](https://github.com/minalniraula/Portfolio?tab=readme-ov-file#us-domestic-airlines-analysis)
 - [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
@@ -44,7 +44,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
   
   **Link:** [`Car Business Performance Dashboard`](https://github.com/minalniraula/Portfolio/blob/main/Car%20Business%20Performance/README.md)
   
-  **Tools:** Tableau Desktop and Tableau Public
+  **Tools Used:** Tableau Desktop and Tableau Public
   
   **Skill used:** Calculated fields, aggregations, IF/CASE logic, date and string functions, table calculations, filters and parameters, geographic mapping, dashboard actions and KPI design.
   
@@ -73,9 +73,9 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
 
 ### US Domestic Airlines Analysis
   
-  **Link:** [`US Domestic Airlines Analysis`]()
+  **Link:** [`US Domestic Airlines Analysis`](https://github.com/minalniraula/Portfolio/tree/main/US%20Domestic%20Airlines-Python#us-domestic-airline-data-analysis)
   
-  **Tools:** Python libraries (Pandas, NumPy, Matplotlib and Seaborn)
+  **Tools Used:** Python libraries (Pandas, NumPy, Matplotlib and Seaborn)
   
   **Skill used:** EDA, Data Visualisation, KPI Analysis, Feature Engineering, Data Cleaning, Aggregation & Pivot Tables, Trend & Performance Analysis
   
