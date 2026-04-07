@@ -16,6 +16,8 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
     - [Car Business Performance Dashboard](https://github.com/minalniraula/Portfolio/blob/main/README.md#car-business-performance-dashboard)
   - Excel
     - [NYC Yellow Cab Analysis](https://github.com/minalniraula/Portfolio/blob/main/README.md#nyc-yellow-cab-analysis)
+  - Python
+    - [US Domestic Airlines Analysis]()
 - [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
@@ -68,6 +70,22 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
 - Highlighted differences between high-volume and high-revenue trip durations.
 - Revealed clear behavioural differences in tipping patterns across payment methods and time periods.
 - Provided a glance KPI overview of total trips, revenue, average revenue per trip, and tip percentage to support performance monitoring.
+
+### US Domestic Airlines Analysis
+  
+  **Link:** [`US Domestic Airlines Analysis`]()
+  
+  **Tools:** Python libraries (Pandas, NumPy, Matplotlib and Seaborn)
+  
+  **Skill used:** EDA, Data Visualisation, KPI Analysis, Feature Engineering, Data Cleaning, Aggregation & Pivot Tables, Trend & Performance Analysis
+  
+  **Description:** This project analyzes 2024 US domestic flight performance data from the Bureau of Transportation Statistics, covering 7 million+ records across 14 major airlines. Using Python and Pandas, I explored delay patterns, seasonal trends, and route performance through EDA and visualisation. The analysis benchmarks Southwest Airlines against industry peers, uncovering key operational insights around delay causes, cancellation rates, and arrival distributions.
+  
+  **Results:**
+  - Late aircraft delays are the leading cause of disruptions industry-wide, indicating that delays are systemic operational challenge.
+  - Weather accounts for a relatively small share of delays, suggesting most disruptions occur from controllable operational factors.
+  - Delays peak in summer months, likely driven by higher travel demand and congestion.
+  - Southwest Airlines generally performs slightly better than the industry average on most delay metrics, though its higher late aircraft delay suggests schedule disruptions frequently carry over through its network.
 
 ## Education
 - MSc in Business Intelligence and Analytics | University of Huddersfield | Jan 2023- Jun 2024
