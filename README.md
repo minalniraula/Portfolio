@@ -19,7 +19,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
   - Python
     - [US Domestic Airlines Analysis](https://github.com/minalniraula/Portfolio?tab=readme-ov-file#us-domestic-airlines-analysis)
 - [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
-- [Certification](https://github.com/minalniraula/Portfolio/tree/main/README.md#certification)
+- [Certification](https://github.com/minalniraula/Portfolio/blob/main/README.md#certification)
 - [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
 ## Projects
