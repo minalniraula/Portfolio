@@ -19,6 +19,7 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
   - Python
     - [US Domestic Airlines Analysis](https://github.com/minalniraula/Portfolio?tab=readme-ov-file#us-domestic-airlines-analysis)
 - [Education](https://github.com/minalniraula/Portfolio/blob/main/README.md#education)
+- [Certification](https://github.com/minalniraula/Portfolio/edit/main/README.md#certification)
 - [Contact](https://github.com/minalniraula/Portfolio/blob/main/README.md#contact)
 
 ## Projects
@@ -90,7 +91,10 @@ This portfolio showcases my early analytics projects, focusing on problem-solvin
 ## Education
 - MSc in Business Intelligence and Analytics | University of Huddersfield | Jan 2023- Jun 2024
 - Bachelor in Business Administration (Specialisation in Marketing) | Kathmandu University School of Management (KUSoM) | Sep 2016- Nov 2020
-  
+
+## Certification
+- [Atlassian Agile Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/f4529138097cfc981bc09a95b33665d21d029a3d2e6b234f42f99e596373e7e4)
+
 ## Contact
 LinkedIn: [@minal-niraula](https://www.linkedin.com/in/minal-niraula/)
   
